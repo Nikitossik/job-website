@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Gotham Rounded Book';
+    src: url('./Gotham_Rounded/GothamRounded-Book.eot');
+    src: url('./Gotham_Rounded/GothamRounded-Book.eot?#iefix') format('embedded-opentype'),
+        url('./Gotham_Rounded/GothamRounded-Book.woff2') format('woff2'),
+        url('./Gotham_Rounded/GothamRounded-Book.woff') format('woff'),
+        url('./Gotham_Rounded/GothamRounded-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Rounded';
+    src: url('./Gotham_Rounded/GothamRounded-Bold.eot');
+    src: url('./Gotham_Rounded/GothamRounded-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./Gotham_Rounded/GothamRounded-Bold.woff2') format('woff2'),
+        url('./Gotham_Rounded/GothamRounded-Bold.woff') format('woff'),
+        url('./Gotham_Rounded/GothamRounded-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Rounded';
+    src: url('./Gotham_Rounded/GothamRounded-Medium.eot');
+    src: url('./Gotham_Rounded/GothamRounded-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./Gotham_Rounded/GothamRounded-Medium.woff2') format('woff2'),
+        url('./Gotham_Rounded/GothamRounded-Medium.woff') format('woff'),
+        url('./Gotham_Rounded/GothamRounded-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Rounded';
+    src: url('./Gotham_Rounded/GothamRounded-Light.eot');
+    src: url('./Gotham_Rounded/GothamRounded-Light.eot?#iefix') format('embedded-opentype'),
+        url('./Gotham_Rounded/GothamRounded-Light.woff2') format('woff2'),
+        url('./Gotham_Rounded/GothamRounded-Light.woff') format('woff'),
+        url('./Gotham_Rounded/GothamRounded-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('./Verdana/Verdana.eot');
+    src: url('./Verdana/Verdana.eot?#iefix') format('embedded-opentype'),
+        url('./Verdana/Verdana.woff2') format('woff2'),
+        url('./Verdana/Verdana.woff') format('woff'),
+        url('./Verdana/Verdana.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('./Verdana/Verdana-Bold.eot');
+    src: url('./Verdana/Verdana-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./Verdana/Verdana-Bold.woff2') format('woff2'),
+        url('./Verdana/Verdana-Bold.woff') format('woff'),
+        url('./Verdana/Verdana-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
